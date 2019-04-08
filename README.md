@@ -9,7 +9,7 @@ This repository is for **my personal research on AI and machine learning** and i
 * Proposed AI and machine learning initiatives
 * Natural Language Processing initiatives 
 * Robotics and automation initiatives
-* Some generic AI and machine learning initiatives roadmaps
+* Some AI and machine learning initiatives roadmaps for financial institutions
 
 ## Instruction
 
